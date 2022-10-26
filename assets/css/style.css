@@ -1,0 +1,92 @@
+.ak-47 {
+    background-color:chartreuse;
+    color:red;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.2s;
+  }
+  
+  .active, .ak-47:hover {
+    background-color: green; 
+  }
+  
+  .ak-47-info {
+    padding: 0 18px;
+    display: none;
+    background-color:cornflowerblue;
+    overflow: hidden;
+  }
+  .fn-scar{
+    background-color:crimson;
+    color:burlywood;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.2s;
+  }
+  .active, .fn-scar:hover {
+    background-color:coral; 
+  }
+  .scar-info {
+    padding: 0 18px;
+    display: none;
+    background-color:aquamarine;
+    overflow: hidden;
+  }
+  .rpg-7{
+    background-color:aqua;
+    color:burlywood;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.2s;
+  }
+  .active, .rpg-7:hover {
+    background-color:darkorchid; 
+  }
+  .rpg-info {
+    padding: 0 18px;
+    display: none;
+    background-color: blue;
+    overflow: hidden;
+  }
+  #ak-info{
+    margin-left: 300px;
+    width: 50%;
+  }
+  #pict-ak47{
+    margin-left: 400px;
+  }
+  #sc-info{
+    width: 50%;
+    margin-left: 300px;
+  }
+  #pict-scar{
+    margin-left: 420px;
+  }
+  #rp-info{
+    width: 50%;
+    margin-left: 300px;
+  }
+  #pict-rpg{
+    margin-top: 30px;
+    margin-left: 400px;
+  }
+  #guns{
+    margin-left: 700px;
+    color: red;
+  }
+  
